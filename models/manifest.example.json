@@ -1,0 +1,10 @@
+{
+  "deer":   { "file": "deer.glb",   "clips": { "idle": "Idle", "eat": "Eat", "walk": "Walk", "run": "Gallop", "death": "Death" } },
+  "elk":    { "file": "elk.glb" },
+  "boar":   { "file": "boar.glb",   "yaw": 0 },
+  "rabbit": { "file": "hare.glb" },
+  "turkey": { "file": "turkey.glb" },
+  "wolf":   { "file": "wolf.glb",   "walkSpeed": 1.5, "runSpeed": 9 },
+  "bear":   { "file": "bear.glb" },
+  "cougar": { "file": "cougar.glb" }
+}
